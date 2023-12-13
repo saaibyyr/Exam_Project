@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756523290246",
+    "project_id": "financeapp-5ce80",
+    "storage_bucket": "financeapp-5ce80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756523290246:android:bf66363203252d8b2c0b07",
+        "android_client_info": {
+          "package_name": "com.example.medicine_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvASjFA7emCr8FFaUuJ6KOnQ7qXWlI-r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
